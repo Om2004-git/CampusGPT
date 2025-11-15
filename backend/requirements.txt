@@ -1,0 +1,13 @@
+fastapi
+uvicorn[standard]
+python-dotenv
+langchain>=0.0.300
+langchain-huggingface
+langchain-groq
+langchain-community
+sentence-transformers
+faiss-cpu
+pdfplumber
+python-multipart
+aiofiles
+tqdm
